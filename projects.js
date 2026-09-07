@@ -48,3 +48,57 @@ window.RENOWEET_PROJECTS=[
     "photos": []
   }
 ];
+window.RENOWEET_REVIEWS=[
+  {
+    "id": "review-dennis-2026-08-11",
+    "source": "Werkspot",
+    "rating": 5,
+    "name": "Dennis",
+    "place": "Koog aan de Zaan",
+    "date": "11-08-2026",
+    "nl": "Dacht actief mee over ontwerp en maatvoering, bouwde de wand stevig en netjes en verwerkte ook de elektra. Daarna volgden nog twee opdrachten.",
+    "en": "Actively contributed to the design and dimensions, built the wall solidly and neatly, and integrated the electrical work. Two more jobs followed."
+  },
+  {
+    "id": "review-aydin-2026-07-28",
+    "source": "Werkspot",
+    "rating": 5,
+    "name": "Aydin",
+    "place": "Amsterdam",
+    "date": "28-07-2026",
+    "nl": "Goede ervaring: drie binnenwanden waren binnen twee dagen klaar. Snel en netjes uitgevoerd.",
+    "en": "A good experience: three interior walls were completed within two days. Fast and tidy execution."
+  },
+  {
+    "id": "review-laura-2025-08-30",
+    "source": "Werkspot",
+    "rating": 5,
+    "name": "Laura Gonzalez Gil",
+    "place": "Amsterdam",
+    "date": "30-08-2025",
+    "nl": "Op tijd, professioneel en deskundig. Uitdagingen tijdens het werk werden positief en praktisch opgelost.",
+    "en": "On time, professional and knowledgeable. Challenges during the work were handled positively and practically."
+  },
+  {
+    "id": "review-liza-2025-08-20",
+    "source": "Werkspot",
+    "rating": 5,
+    "name": "Liza",
+    "place": "Diemen",
+    "date": "20-08-2025",
+    "nl": "Snel en soepel uitgevoerd. Het meubel was in minder dan twee uur gemonteerd en er werd ook geholpen met het opruimen.",
+    "en": "Fast and smooth work. The furniture was assembled in under two hours and help was also given with clearing the packaging."
+  }
+];
+window.RENOWEET_REVIEW_META={
+  "Werkspot": {
+    "rating": "4.8",
+    "count": 22,
+    "url": "https://www.werkspot.nl/profiel/renoweet/reviews"
+  },
+  "Google": {
+    "rating": "5.0",
+    "count": 1,
+    "url": ""
+  }
+};
