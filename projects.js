@@ -203,8 +203,8 @@ window.RENOWEET_REVIEWS=[
 ];
 window.RENOWEET_REVIEW_META={
   "Werkspot": {
-    "rating": "4.8",
-    "count": 22,
+    "rating": "4.9",
+    "count": 23,
     "url": "https://www.werkspot.nl/profiel/renoweet/reviews"
   },
   "Google": {
